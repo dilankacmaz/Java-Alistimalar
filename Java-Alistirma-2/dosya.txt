@@ -1,0 +1,5 @@
+Dilan Kaçmaz,20,80,90
+Ayþenur Uçar.30,40,100
+Faruk Özdemir,30,20,60
+Doðukan Günay,20,50,70
+Mustafa Eðilmez,50,30,100
